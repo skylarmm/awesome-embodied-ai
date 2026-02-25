@@ -4,12 +4,12 @@
 
 Embodied AI is the next frontier of artificial intelligence, where computational agents interact with the physical world. This repository aggregates the absolute state-of-the-art (SOTA) open-source ecosystems.
 
-## Contents (目录)
-- [Quadruped & Locomotion (四足与运动控制)](#quadruped--locomotion)
-- [Manipulation & Robotic Arms (抓取与机械臂)](#manipulation--robotic-arms)
-- [Embodied Foundation Models (具身大模型)](#embodied-foundation-models)
-- [Simulators & Sim-to-Real (仿真器与虚实迁移)](#simulators--sim-to-real)
-- [Hardware & Edge Compute (硬件与边缘计算)](#hardware--edge-compute)
+## Contents 
+- [Quadruped & Locomotion ](#quadruped--locomotion)
+- [Manipulation & Robotic Arms ](#manipulation--robotic-arms)
+- [Embodied Foundation Models ](#embodied-foundation-models)
+- [Simulators & Sim-to-Real ](#simulators--sim-to-real)
+- [Hardware & Edge Compute ](#hardware--edge-compute)
 
 ---
 
